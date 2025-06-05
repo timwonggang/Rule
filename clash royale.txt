@@ -1,0 +1,7 @@
+# 规则数量：当前共 5 条规则
+
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,clashroyale.com
+DOMAIN-SUFFIX,clashroyaleapp.com
+DOMAIN-SUFFIX,supercell.com
